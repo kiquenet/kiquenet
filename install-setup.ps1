@@ -59,3 +59,24 @@ choco install logparser -y
 
 # Instalar TreeFolderSize
 choco install tree-size-free -y
+
+# winget install Microsoft.VisualStudioCode
+# winget install Google.Chrome
+# winget install Firefox
+# winget install VLC
+# winget install Audacity
+# winget install NotepadPlusPlus
+# winget install 7zip
+# winget install KeePass
+# winget install WinSCP
+# winget install PowerToys
+
+
+# Desinstalar Xbox y Xbox Game Bar
+Get-AppxPackage *xbox* | Remove-AppxPackage -AllUsers
+Get-AppxPackage *gamebar* | Remove-AppxPackage -AllUsers
+
+# Desinstalar juegos
+Get-AppxPackage *bing* | Remove-AppxPackage -AllUsers
+Get-AppxPackage *solitairecollection* | Remove-AppxPackage -AllUsers
+Get-AppxPackage *minecraft* | Remove-AppxPackage -AllUsers
