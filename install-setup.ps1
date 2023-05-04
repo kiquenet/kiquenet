@@ -48,7 +48,9 @@ if (-not(Get-Command choco -ErrorAction SilentlyContinue)) {
 }
 
 # Instalar Power BI
-choco install powerbi-desktop -y
+# choco install powerbi-desktop -y
+choco install powerbi -y
+
 # Instalar Docker
 choco install docker-desktop -y
 # Instalar PowerToys
@@ -59,6 +61,10 @@ choco install logparser -y
 
 # Instalar TreeFolderSize
 choco install tree-size-free -y
+
+choco install vagrant -y
+choco install virtualbox -y -f  
+# choco upgrade virtualbox -y
 
 # winget install Microsoft.VisualStudioCode
 # winget install Google.Chrome
