@@ -66,6 +66,43 @@ choco install vagrant -y
 choco install virtualbox -y -f  
 # choco upgrade virtualbox -y
 
+choco install insomnia -y
+choco install python3 -y
+choco install ffmpeg -y
+choco install wiremock -y
+choco install soapui -y
+choco install restsharp -y
+choco install drawio
+choco install mRemoteNG
+choco install sqlitebrowser
+choco install linqpad # .NET Scratchpad
+choco install winmerge
+choco install beyondcompare
+# choco install glogg # logviewer
+
+## Cleanup
+#choco install bleachbit
+choco install treesizefree
+#choco install dupeguru # duplicate finder gui
+#choco install revo-uninstaller
+
+## Runtimes / Languages
+# choco install doxygen
+# choco install pyenv-win # python version manager - breaks wsl when in PATH --> bash\r
+
+## CLI Tools
+# choco install ConEmu
+# choco install far # cli file editor / explorer
+
+choco install curl
+choco install wget
+
+# choco install youtube-dl
+
+## FileSync
+choco install synctrayzor
+
+
 # winget install Microsoft.VisualStudioCode
 # winget install Google.Chrome
 # winget install Firefox
