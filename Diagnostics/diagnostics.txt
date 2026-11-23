@@ -1,0 +1,7 @@
+https://github.com/doggy8088/serverinfoaspx/blob/bbb151a624063d26cc9164a9bca8097c7f842407/serverinfo.aspx#L309
+
+https://github.com/Lifeng-Liang/Blog/blob/4a5db798656a01f8d0a0f8098183f2eebd1e30d9/Blog/Views/Manage/Memory.aspx#L30
+
+https://github.com/Eonic/ProteanCMS/blob/68a282c37ec3d0c4ad1bccdeeb76da90e7a71926/V6_wwwroot/setup.ashx#L10
+
+https://github.com/RlyehDoom/ICBuildTools/blob/7dba68f141dbadc990f9c3683463b5dd0a2e9bbe/NETExecutor.aspx#L14
