@@ -1,0 +1,36 @@
+http://www.codeproject.com/Articles/103625/Website-Diagnostics-Page-to-diagnose-your-ASP-NET
+https://web.archive.org/web/20220810052436/https://www.codeproject.com/Articles/23306/10-ASP-NET-Performance-and-Scalability-Secrets
+https://web.archive.org/web/20160430180932/http://www.codeproject.com/Articles/133738/Quick-Ways-to-Boost-Performance-and-Scalability-of
+
+https://omaralzabir.com/quick-ways-to-boost-performance-and-scalability-of-asp-net-wcf-and-desktop-clients-2/
+
+https://omaralzabir.com/safely-deploying-changes-to-production-servers/
+TINYGET
+typeperf 
+
+https://weblogs.asp.net/johnbilliris/don-t-forget-to-tune-your-application/
+
+https://omaralzabir.com/keep-website-and-webservices-warm-with-zero-coding/
+Auto-Start ASP.NET Applications (VS 2010 and .NET 4.0 Series)
+https://web.archive.org/web/20120118025638/http://weblogs.asp.net/scottgu/archive/2009/08/25/vs-2010-and-net-4-series.aspx
+https://web.archive.org/web/20120118033618/https://weblogs.asp.net/scottgu/archive/2009/09/15/auto-start-asp-net-applications-vs-2010-and-net-4-0-series.aspx
+
+https://omaralzabir.com/category/codeproject/
+https://www.codeproject.com/Articles/63678/Diagnostic-Explorer
+
+https://web.archive.org/web/20160125154633/http://www.codeproject.com/Articles/1024564/Diagnosing-a-Windows-Service-timeout-with-PerfView
+
+https://nimaara.com/2017/11/07/stuff-every-dotnet-app-should-log.html
+
+Improving .NET Application Performance and Scalability
+Chapter 17 — Tuning .NET Application Performance
+https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff647813(v=pandp.10)
+
+https://docs.microsoft.com/en-us/azure/application-insights/app-insights-monitor-web-app-availability
+
+https://serverspec.org/
+
+
+Building a Web 2.0 Portal with ASP.NET 3.5
+Learn How to Build a State-of-the-Art Ajax Start Page Using ASP.NET, .NET 3.5, LINQ, Windows WF, and More
+By Omar AL Zabir
