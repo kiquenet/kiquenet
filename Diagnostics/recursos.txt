@@ -8,6 +8,10 @@ https://omaralzabir.com/safely-deploying-changes-to-production-servers/
 TINYGET
 typeperf 
 
+https://github.com/lowleveldesign/debug-recipes
+https://github.com/lorenaman/debug-recipes/blob/87150a11c99211d76b0d97a55b5febd5378f6505/asp.net/diag-pages/DumpDiagnostics.aspx#L99
+https://github.com/lowleveldesign
+
 https://weblogs.asp.net/johnbilliris/don-t-forget-to-tune-your-application/
 
 https://omaralzabir.com/keep-website-and-webservices-warm-with-zero-coding/
@@ -26,9 +30,15 @@ Improving .NET Application Performance and Scalability
 Chapter 17 — Tuning .NET Application Performance
 https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff647813(v=pandp.10)
 
+IIS FREB
+https://learn.microsoft.com/en-us/previous-versions/troubleshoot/iis/troubleshoot-failed-requests-using-tracing-in-iis-7
+
+https://wtrace.net/guides/diagnosing-dotnet-apps/
 https://docs.microsoft.com/en-us/azure/application-insights/app-insights-monitor-web-app-availability
 
 https://serverspec.org/
+
+https://github.com/lorenaman?tab=repositories
 
 
 Building a Web 2.0 Portal with ASP.NET 3.5
